@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aagowl
-- High School student, class of 2024
-- I don't have a clue of what I'm doing but I'm trying and that's half the battle right?
+- I am an undergraduate student majoring in physics
 
 ```
  ▓▓▓▓▓\     ▓▓▓▓▓\   ▓▓▓▓▓▓\   ▓▓▓▓▓▓\  ▓▓\       ▓▓\  ▓▓\  
