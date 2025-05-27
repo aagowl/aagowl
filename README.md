@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aagowl
 - I am an undergraduate student majoring in physics
-- check out my website! aagowl.neocities.org
+- check out my [website!](aagowl.neocities.org)
 
 ```
  ▓▓▓▓▓\     ▓▓▓▓▓\   ▓▓▓▓▓▓\   ▓▓▓▓▓▓\  ▓▓\       ▓▓\  ▓▓\  
